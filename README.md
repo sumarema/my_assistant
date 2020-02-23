@@ -1,2 +1,3 @@
 # my_assistant
 my_automation_assistant
+This is a Django Based Digital Assistant.. Work in progress...
